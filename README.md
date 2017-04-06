@@ -7,8 +7,8 @@
 言語認識も当然ながら。
 
 結果は↓を参照
-- /wt/classify_result.json
-- /wt/classify_result.json
-- /wt/classify_result.json
+- [classify](/wt/classify_result.json)
+- [detect_faces](/wt/detect_faces.json)
+- [recognize_text](/wt/recognize_text.json)
 
 ![あこ](img/ako.png "あこ")
