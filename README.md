@@ -10,3 +10,5 @@
 - /wt/classify_result.json
 - /wt/classify_result.json
 - /wt/classify_result.json
+
+![あこ](img/ako.png "あこ")
